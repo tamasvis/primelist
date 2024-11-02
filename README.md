@@ -1,4 +1,4 @@
-# Miscellaneous lists of primes
+# Miscellaneous lists of primes and primality-related data
 
 ## Pseudo-Mersenne primes
 
@@ -39,7 +39,24 @@ Hex fields are obviously redundant, included only for readability. The
 ```.txt``` version is simply monospace-formatted from ```.csv```.
 
 
+## Chernick/Carmichael numbers
+
+```chernicku3-start.csv``` and ```chernicku3.csv.zip```
+
+The first few entries are listed in ```chernicku3-start.csv```, with
+all ```r``` below or equal to 32. A more comprehensive list is in
+```chernicku3.csv.zip``` (```r<=255```).
+
+
 # References
+
+[C39]
+Chernick: On Fermat's simple theorem
+  Bulletin of the American Mathematical Society, Vol. 45 (4), 1939
+  www.ams.org/journals/bull/1939-45-04/S0002-9904-1939-06953-X/
+    S0002-9904-1939-06953-X.pdf  [accessed 2024-09-02]
+  SHA-256(PDF)=
+    f8115181d29203504afeb7696c452b904471a26937b72fa82d215573e430e455
 
 [S24]
 Scott: Elliptic Curve Cryptography for the masses: Simple and fast
