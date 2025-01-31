@@ -48,7 +48,7 @@ Hex fields are obviously redundant, included only for readability. The
 Primes potentially relevant to construction of Baillie-PSW test
 counterexamples. These primes are ```3 mod 8```, ```(5 p) = -1``` [P84],
 and ```p-1``` and ```p+1``` are simultaneously ```K```-smooth for some
-reasonable ```K```.
+reasonable ```K```. (We use K=467 for this list.)
 
 
 ## Chernick/Carmichael numbers
